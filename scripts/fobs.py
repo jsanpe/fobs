@@ -1,0 +1,6 @@
+FFMPEG_HOME = '#external'
+FOBS4JMF = 'yes'
+OPTIMIZATIONS = 'yes'
+DEBUG_SYMBOLS = 'yes'
+root = '/Users/jsanpedro/Desktop/sandbox/fobs-src_lab'
+SYSTEM_ROOT = '/'
